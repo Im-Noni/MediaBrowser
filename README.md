@@ -1,6 +1,5 @@
-# Media Gallery
 
-A fullscreen picture and video gallery for your own files, with a rhythm-game beat bar, an AI censor, and editors for beats, lights and censor areas. Everything runs on your own PC.
+A fullscreen picture and video gallery for your own files, an AI censor, and editors for beats, lights and censor areas. Everything runs on your own PC.
 
 ## Run it
 
